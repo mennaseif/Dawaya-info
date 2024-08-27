@@ -1,6 +1,6 @@
 ## Writing ERD For Example : Pharmacy
 
- **Dawaya**
+**Dawaya**
 
 **This application will help users easily find nearby pharmacies that have the medicines they need.**
 
@@ -40,24 +40,22 @@ pharmacy.
 
 ## ERD Diagram
 
-[ERD.drawio](https://prod-files-secure.s3.us-west-2.amazonaws.com/36c777e8-f9c6-4a80-87bd-4f240912062d/53ed3615-c27a-4429-8e64-b40333dfdf1a/ERD.drawio)
+[ERD.drawio](DATABASE_IMAGES/ERD.drawio)
 
-![ERD.svg](https://prod-files-secure.s3.us-west-2.amazonaws.com/36c777e8-f9c6-4a80-87bd-4f240912062d/22962567-09ba-4991-912b-d0ef0f5f869c/ERD.svg)
+![ERD.svg](DATABASE_IMAGES/ERD.svg)
 
-![ERD.svg](https://prod-files-secure.s3.us-west-2.amazonaws.com/36c777e8-f9c6-4a80-87bd-4f240912062d/7433ad7c-62a5-431e-9cfc-4ad18e42a861/ERD.svg)
+![ERD.svg](DATABASE_IMAGES/ERD_1.svg)
 
 ## Mapping
 
-[Mapping.drawio](https://prod-files-secure.s3.us-west-2.amazonaws.com/36c777e8-f9c6-4a80-87bd-4f240912062d/f9433605-617c-4f0e-b2ee-e06635c2f14d/Mapping.drawio)
+[Mapping.drawio](DATABASE_IMAGES/Mapping.drawio)
 
-![Mapping.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/36c777e8-f9c6-4a80-87bd-4f240912062d/bfd16ec4-61ea-4a9a-b7e4-549ef7ce16ba/Mapping.png)
+![Mapping.png](DATABASE_IMAGES/Mapping.png)
 
 ## Schema
 
 live Schema: ‣
 
-![Schema.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/36c777e8-f9c6-4a80-87bd-4f240912062d/185d6250-e8b2-49ff-bd71-d983e5d22d1c/Schema.png)
+![Schema.png](DATABASE_IMAGES/Schema.png)
 
-![schemaWithBackground.svg](https://prod-files-secure.s3.us-west-2.amazonaws.com/36c777e8-f9c6-4a80-87bd-4f240912062d/a4fe1c5c-3439-4e6d-8fd6-eedaae69a481/schemaWithBackground.svg)
-
-![Schema.svg](https://prod-files-secure.s3.us-west-2.amazonaws.com/36c777e8-f9c6-4a80-87bd-4f240912062d/0e522429-54ea-496a-bd8d-84b744acbe63/Schema.svg)
+![schemaWithBackground.svg](DATABASE_IMAGES/schemaWithBackground.svg)
